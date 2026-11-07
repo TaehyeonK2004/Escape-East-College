@@ -1,2 +1,2 @@
-# Escape-East-College
-A C++ puzzle escape game co-developed
+# tower_climber
+CSC 122 "East College Climbers" - Major Project
