@@ -1,13 +1,10 @@
 # Escape East College
 
-![C++](https://img.shields.io/badge/C%2B%2B-426A8C?style=flat-square)
-![raylib](https://img.shields.io/badge/raylib-333333?style=flat-square)
-
-Five questions. Five answers. One way out.
-
 Escape East College is a 2D trivia escape game built with C++ and raylib.
 Move around the room, read the questions, and collect your answers in order.
 Reach the exit with the correct sequence to escape.
+
+![Escape East College gameplay](screenshot.png)
 
 ## How to play
 
