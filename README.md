@@ -56,5 +56,5 @@ Then run:
 .\tower_climber.exe
 ```
 
-The build command links against `lib/libraylib.a`, which must be present
-and compatible with your compiler.
+The build uses `lib/libraylib.a`. If the linker reports an incompatible
+library, you'll need a raylib build that matches your compiler.
